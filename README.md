@@ -1,5 +1,5 @@
 Superstore-sales-Dashboard
-Superstore sales Dashboard - PowerbI 📊 I'm excited to share my inaugural Power BI Dashboard, which was expertly guided by Sir Rishab Mishra! 🚀
+Superstore sales Dashboard - PowerbI 📊 I'm excited to share my inaugural Power BI Dashboard.
 
 This project harmoniously combines the art of data analysis and visualization, resulting in a symphony of actionable insights. 💡
 
